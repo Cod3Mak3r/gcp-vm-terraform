@@ -1,16 +1,3 @@
-### 📌 **Pasos para agregar el README**  
-1. En la terminal dentro de tu directorio del proyecto, ejecuta:  
-   ```sh
-   touch README.md
-   ```
-2. Abre el archivo con un editor de texto o ejecuta:  
-   ```sh
-   nano README.md
-   ```
-3. Copia y pega el siguiente contenido:  
-
----
-
 ## 🚀 Implementación de una Máquina Virtual en GCP con Terraform  
 
 ### 📌 Descripción  
