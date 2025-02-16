@@ -1,7 +1,3 @@
-Aquí tienes un **README.md** bien estructurado para tu proyecto en GCP con Terraform. Incluirá detalles sobre el propósito del proyecto, los servicios utilizados y cómo desplegar la infraestructura.  
-
----
-
 ### 📌 **Pasos para agregar el README**  
 1. En la terminal dentro de tu directorio del proyecto, ejecuta:  
    ```sh
