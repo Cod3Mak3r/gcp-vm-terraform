@@ -1,0 +1,21 @@
+# Ignorar credenciales y claves privadas
+*.pem
+*.pfx
+*.key
+*.crt
+*.cer
+credentials.json
+terraform.tfstate
+terraform.tfstate.backup
+.terraform/
+.terraform.lock.hcl
+
+# Archivos de logs y de sistema
+*.log
+*.swp
+.DS_Store
+
+# Archivos de configuración local
+.env
+.vscode/
+.idea/
